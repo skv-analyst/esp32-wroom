@@ -11,4 +11,5 @@
   - `python -m serial.tools.miniterm /dev/tty.usbserial-0001 115200` 
   - `ampy`
   - `mpfshell`
+  - https://www.youtube.com/watch?v=SHwXH7OQPCI&ab_channel=DavidEldridge
 
